@@ -7,7 +7,7 @@
     <properties key="core.boardCompatibility" value="brd2201a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.lg.*"/>
     <properties key="template.initiallyOpenedResource" value="src/blink.c"/>
-    <properties key="defaultName" value="STK3600_blink"/>
+    <properties key="defaultName" value="STK3600_blink_SQA"/>
   </descriptors>
   <descriptors label="STK3600_cslib_SQA" description="&lt;h1&gt;&lt;b&gt;CSLIB example. Template for new projects.&lt;/b&gt;&lt;/h1&gt;&#xD;&#xA;&lt;pre&gt;&#xD;&#xA;GITHUB SQA This example project uses the capacitive sensing firmware library to sample&#xD;&#xA;capacitive sensing buttons on the STK.  Real-time sample information, touch&#xD;&#xA;qualification status, and other state variables can be displayed and examined&#xD;&#xA;in the Capacitive Sensing Profiler tool.&#xD;&#xA;&#xD;&#xA;Board:  Silicon Labs EFM32LG_STK3600 Starter Kit&#xD;&#xA;Device: EFM32LG990F256&#xD;&#xA;&lt;/pre&gt;">
     <properties key="template.category" value="Leopard Gecko 3600 Starter Kit"/>
@@ -15,6 +15,6 @@
     <properties key="core.boardCompatibility" value="brd2201a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.lg.*"/>
     <properties key="template.initiallyOpenedResource" value="src/main.c"/>
-    <properties key="defaultName" value="STK3600_cslib"/>
+    <properties key="defaultName" value="STK3600_cslib_SQA"/>
   </descriptors>
 </model:MDescriptors>
